@@ -66,4 +66,4 @@ This repository tracks all historical deals for **FundedNext Futures** published
 
 ---
 
-Last synced: 2026-10-29T02:42:42Z (auto, hourly)
+Last synced: 2026-10-29T06:32:07Z (auto, hourly)
