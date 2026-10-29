@@ -81,7 +81,7 @@ This repository tracks all historical deals for **FundedNext Futures** published
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T12:47:08Z (auto, hourly)
+Last synced: 2026-10-29T16:57:47Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
