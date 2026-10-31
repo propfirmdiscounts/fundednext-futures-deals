@@ -74,10 +74,10 @@ Total deals tracked: **16**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-22 | Christmas Offer: 100K Legacy Challenge for $149.99 | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-christmas-100k-legacy-offer/) |
-| 2025-11-26 | Black Friday Sale: Special Legacy Prices + 15% Off Resets | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-black-friday-legacy-prices-reset-discount/) |
-| 2025-10-27 | Halloween Promo: 15% Off (Existing Users) + No Consistency Rule | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-halloween-existing-users-15-off/) |
-| 2025-10-27 | Halloween Deal: 25% Off (New Users) + No Consistency Rule | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-halloween-new-users-25-off/) |
+| 2025-12-22 | Christmas Offer: 100K Legacy Challenge for $149.99 | 40% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-christmas-100k-legacy-offer/) |
+| 2025-11-26 | Black Friday Sale: Special Legacy Prices + 15% Off Resets | 30% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-black-friday-legacy-prices-reset-discount/) |
+| 2025-10-27 | Halloween Promo: 15% Off (Existing Users) + No Consistency Rule | 15% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-halloween-existing-users-15-off/) |
+| 2025-10-27 | Halloween Deal: 25% Off (New Users) + No Consistency Rule | 25% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-halloween-new-users-25-off/) |
 | 2025-10-13 | Head Start Offer: Up to 25% OFF Challenges | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-head-start-offer-25-off/) |
 | 2025-09-01 | Labor Day Sale: 40% Off Legacy Challenges + No Daily Loss Limit | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-labor-day-40-off-legacy-challenge/) |
 | 2025-07-18 | Limitless Offer: 30% Off + No Daily Loss Limits | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-limitless-offer-30-off/) |
