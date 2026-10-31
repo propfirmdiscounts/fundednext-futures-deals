@@ -1,45 +1,62 @@
 ---
 license: other
+pretty_name: FundedNext Futures Discount Code
 configs:
 - config_name: fundednext-futures-deals
   data_files:
   - split: data
     path: datasets/fundednext-futures-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - fundednext-futures
 ---
 
-# FundedNext Futures - Discount Codes & Deal History
+# FundedNext Futures Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-22, the verified FundedNext Futures discount code is **PFDC** — up to 20% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/fundednext-futures/
+- Code: PFDC
+- Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-22
+- Trustpilot: 4.5/5 (82520 reviews)
+- Activate: https://propfirmdiscount.com/go/fundednextfutures
+- Firm page: https://propfirmdiscount.com/prop-firm/fundednext-futures/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-**Verified exclusive discount code:** PFDC (works any time; live rate always on prop firm page)
+## Current FundedNext Futures deal: 50K Direct Account Now $169.99 - Save 40.1%
 
-Use discount code **PFDC** to get **20% off** on FundedNext Futures challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all FundedNext Futures evaluation accounts.
+- Published: 2026-10-22
+- Offer ends: Limited time
+- Offer: 40.1% off
+- Scope: Instant Funded, Direct, 50K Account, Futures, No Profit Goal
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/
+
+## FundedNext Futures discount code FAQ
+
+**What is the FundedNext Futures discount code?**
+
+PFDC. It is verified by PropFirmDiscount.com and takes up to 20% off FundedNext Futures challenges and accounts.
+
+**Does the FundedNext Futures discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current FundedNext Futures deal?**
+
+**50K Direct Account Now $169.99 - Save 40.1%** — published 2026-10-22. Offer ends: Limited time. The offer is 40.1% off.
 
 ---
 
-## Latest Deal
-
-### FundedNext Futures - 50K Direct Account Now $169.99 - Save 40.1%
-
-**Published:** 2026-10-22  
-**Offer ends:** Limited time  
-**Discount:** 40.1% off  
-**Scope:** Instant Funded, Direct, 50K Account, Futures, No Profit Goal  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **16**
 
@@ -71,19 +88,20 @@ Total deals tracked: **16**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **FundedNext Futures** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **FundedNext Futures** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/fundednext-futures/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/fundednext-futures/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
