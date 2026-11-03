@@ -17,7 +17,7 @@ tags:
   - fundednext-futures
 ---
 
-# FundedNext Futures Discount Code
+# FundedNext Futures - Discount Codes & Deal History
 
 As of 2026-10-22, the verified FundedNext Futures discount code is PFDC — up to 20% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
