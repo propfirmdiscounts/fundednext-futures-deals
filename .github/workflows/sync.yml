@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: fundednext-futures-discount-codes
+  HF_NAMESPACE: propfirmdiscount
+  HF_REPO_NAME: fundednext-futures-deals
   FIRM_SLUG: fundednext-futures
   DEALSTORE_ID: 214
   FIRM_NAME: FundedNext Futures
