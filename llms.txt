@@ -1,4 +1,4 @@
-# FundedNext Futures Discount Codes
+# FundedNext Futures Discount Code & Deals History
 
 This dataset tracks historical deal observations for FundedNext Futures from PropFirmDiscount.com.
 

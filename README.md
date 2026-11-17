@@ -1,4 +1,4 @@
-# FundedNext Futures Discount Code & Deal History
+# FundedNext Futures Discount Code, Deals History & Dataset
 
 As of November 2026, the verified FundedNext Futures discount code is PFDC — 20% OFF, which can be applied on the checkout page anytime. The newest is "50K Direct Account Now $169.99 - Save 40.1%".
 
@@ -7,7 +7,7 @@ As of November 2026, the verified FundedNext Futures discount code is PFDC — 2
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-10-22
 - Trustpilot: [4.5/5 (83987 reviews)](https://www.trustpilot.com/review/fundednext.com)
-- GitHub repository: [FundedNext Futures Deals Repository](https://github.com/propfirmdiscounts/fundednext-futures-deals)
+- GitHub repository: [FundedNext Futures Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/fundednext-futures-deals)
 - Activate: [Activate FundedNext Futures Discount Code](https://propfirmdiscount.com/go/fundednextfutures)
 - Firm page: [FundedNext Futures Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/fundednext-futures/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -22,7 +22,7 @@ As of November 2026, the verified FundedNext Futures discount code is PFDC — 2
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [FundedNext Futures Deal Page](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/)
 
-## FundedNext Futures Discount Code & Deals FAQ
+## FundedNext Futures Discount Code & Deals History FAQ
 
 **What is the FundedNext Futures discount code?**
 
@@ -38,7 +38,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## FundedNext Futures Deal History
+## FundedNext Futures Deals History
 
 Total deals tracked: **16**
 
@@ -70,7 +70,7 @@ Total deals tracked: **16**
 
 ---
 
-## About the FundedNext Futures Deals Dataset
+## About the FundedNext Futures Discount Code & Deals History Dataset
 
 This repository mirrors every deal **FundedNext Futures** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -78,7 +78,7 @@ This repository mirrors every deal **FundedNext Futures** has published on PropF
 - Prop firm profile: [FundedNext Futures Profile](https://propfirmdiscount.com/prop-firm/fundednext-futures/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## FundedNext Futures Deal Dataset: Field Definitions
+## FundedNext Futures Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
