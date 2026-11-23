@@ -16,7 +16,7 @@ As of November 2026, the verified FundedNext Futures discount code is PFDC — 2
 ## Latest FundedNext Futures deal: 50K Direct Account Now $169.99 - Save 40.1%
 
 - Published: 2026-10-22
-- Offer ends: Limited time
+- Offer ends: Ended
 - Offer: 40.1% off
 - Scope: Instant Funded, Direct, 50K Account, Futures, No Profit Goal
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
@@ -34,7 +34,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current FundedNext Futures deal?**
 
-**50K Direct Account Now $169.99 - Save 40.1%** — published 2026-10-22. Offer ends: Limited time. The offer is 40.1% off.
+**50K Direct Account Now $169.99 - Save 40.1%** — published 2026-10-22. Offer ends: Ended. The offer is 40.1% off.
 
 ---
 
@@ -46,7 +46,7 @@ Total deals tracked: **16**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-22 | FundedNext Futures: 50K Direct Account Now $169.99 - Save 40.1% | 40.1% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/) |
+| 2026-10-22 | FundedNext Futures: 50K Direct Account Now $169.99 - Save 40.1% | 40.1% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/) |
 | 2026-05-12 | FundedNext Futures: 47% Off Initial Flex Accounts and 40% Off Subsequent Purchases | 47% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-flex-challenge-discount-deal/) |
 | 2026-04-21 | FundedNext Futures: 100K Evaluation Accounts for the Price of 50K Models | Only $149.99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-100k-at-50k-pricing/) |
 | 2026-03-20 | FundedNext Futures: 30% Off All Evaluation Accounts for New Users | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-30-percent-discount-new-users/) |
